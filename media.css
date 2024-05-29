@@ -1,0 +1,253 @@
+@media (max-width: 1200px) {
+
+    .head .social{
+        padding-right: 2%;
+    }
+
+    .border{
+        width: 90%;
+    }
+
+    .call .but{
+        width: 90%;
+    }
+
+    .call .text{
+        padding-left: 2%;
+    }
+
+    .img-part{
+        width: auto;
+    }
+
+    .behind-end-block{
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+        height: 130px;
+    }
+
+    .behind-end-img{
+        display: flex;
+        
+    }
+
+    .behind-end .wrapper .behind-end-block .behind-end-img .img-end{
+        width: 17%;
+        
+    }
+
+    .behind-end .wrapper{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    ul{
+        columns: 3;
+    }
+}
+
+@media (max-width: 900px) {
+    .under-head .text{
+        display: none;
+    }
+
+    .under-head .mobilText{
+        display: block;
+    }
+
+    .slider .wrapper .slide{
+        flex-direction: column;
+    }
+
+    .slider .wrapper .slide .block-test{
+        text-align: center;
+        align-items: center;
+        justify-content: center
+    }
+
+    .slider .wrapper .slide .block-test .icon-test{
+        align-items: center;
+        justify-content: center
+    }
+
+    .icon .text{
+        display: none;
+    }
+
+    .block-test{
+        display: grid;
+        height: 300px;
+    }
+
+    .date{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .partner .block .wrapper{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .img-part{
+        width: 20%;
+    }
+
+}
+
+
+
+@media (max-width: 600px) {
+    .behind-end-block{
+        width: 70%;
+    }
+
+    .call .wrapper {
+        flex-direction: column;
+    }
+
+    .choose .block .wrapper{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .choose .chos{
+        width: 90%;
+        height: 160px;
+    }
+
+    .text-stat {
+        width: 50%;
+    }
+
+    .block .wrapper .chos .text-serv {
+        font-size: 18px;
+    }
+
+    .service .wrapper .serv .text-serv {
+        font-size: 18px;
+    }
+
+    .statistic .wrapper .stat .text-stat {
+        font-size: 13px;
+    }
+
+    .head .wrapper .social .img-icon {
+        display: flex;
+        width: 16;  
+    }
+
+    .sing .wrapper .sing-up .email {
+        width: 50%
+    }
+
+    .sing .wrapper .sing-up .sing-up-but{
+        width: 30%;
+        font-size: 12px;
+    }
+
+    .project .block .wrapper{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+
+    .project .block1{
+        width: 80%;
+        margin: 10px 10%;
+    }
+    .project .block2{
+        width: 80%;
+        margin: 10px 10%;
+    }
+    .project .block3{
+        width: 80%;
+        margin: 10px 10%;
+    }
+
+    .news .block .wrapper{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .block-news{
+        width: 90%;
+        margin: 5%;
+    }
+
+    .statistic .text-stat{
+        width: 80%;
+    }
+
+    .behind-end-img{
+        display: none;
+    }
+
+    .text-end{
+        display: none;
+    }
+
+    .list{
+        display: none;
+    }
+
+    .icon-end{
+        display: none;
+    }
+
+    .behind-end-block{
+        height: 30px;
+    }
+
+    .block-test{
+        height: 400px;
+    }
+
+    .welcom .wrapper{
+        max-height: 250px;
+        font-size: 12px;
+    }
+    .service .block .wrapper{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .block .serv{
+        width: 80%;
+        margin: 10px 10%;
+    }
+
+    .behind-end .wrapper .behind-end-block .logo-end{
+        vertical-align: 260;
+    }
+
+    .call .wrapper .phone .border{
+        align-items: center;
+        justify-content: center;
+    }
+
+    .news .block .block-news .text-news {
+        font-size: 12px;
+    }
+
+    .news .block .block-news .date{
+        width: 13px;
+        padding: 0px 5px 12px 30px;
+    }
+
+    .img-icon-news{
+        width: 13px;
+        height: 13px;
+        padding: 0px 5px 0px 30px;
+    }
+
+}
